@@ -1,0 +1,180 @@
+Complex PDB,Class,Unbound PDB,Component 1,Unbound PDB,Component 2,reference (c),Kd(M),∆G (kcal/ mol),I_rmsd (Å),∆ASA(Å2),Method,Temp (°C),pH
+1A2K_C:AB,OG,1QG4_A,Ran GTPase-GDP,1OUN_AB,Nuclear transport factor 2,1,1.50E-07,9.3,1.11,1603,ITC,25,7.5
+1ACB_E:I,EI,4CHA_ABC,Chymotrypsin,1EGL_A,Eglin C,2,2.00E-10,13.1,1.08,1544,spectro-scopy,21,8
+1AHW_AB:C,A,1FGN_LH,Fab 5g9,1TFH_A,Tissue factor,3,3.40E-09,11.6,0.69,1899,Inhibition,ambient,not stated
+1AK4_A:D,OX,2CPL_A,Cyclophilin,1E6J_P,HIV capsid,4,1.60E-05,6.4,1.33,1029,ITC,20,6.5
+1AKJ_AB:DE,OX,2CLR_DE,MHC class 1 HLA-A2,1CD8_AB,T-cell CD8 coreceptor,5,1.30E-04,5.3,1.14,1995,SPR,25,7.4
+1ATN_A:D,OX,1IJJ_B,Actin,3DNI_A,Dnase I,6,2.00E-09,12.1,3.28,1774,spectro-scopy,30,8
+1AVX_A:B,EI,1QQU_A,Porcine trypsin,1BA7_B,Soybean trypsin inhibitor,7,4.80E-10,12.5,0.47,1585,potentio-metry,20,8.3
+1AVZ_B:C,NC,1AVV_A,HIV-1-NEF protein,1FYN_A,Fyn Kinase SH3 domain,8,1.60E-05,6.5,0.73,1259,ITC,25,7.5
+1AY7_A:B,NC,1RGH_B,Rnase SA,1A19_B,Barstar,9,2.00E-10,13.2,0.54,1237,fluorescence,not stated,8
+1B6C_A:B,OX,1D6O_A,FKBP binding protein,1IAS_A,TGFbeta receptor,10,2.80E-07,8.9,1.96,1752,SPR,25,7.4
+1BJ1_HL:VW,AB,1BJ1_HL,Fab,2VPF_GH,vEGF,11,3.40E-09,11.6,0.5,1731,SPR,25,4.8
+1BRS_A:D,EI,1A2P_A,Barnase,1A19_B,Barstar,12,2.00E-13,17.3,0.42,1555,fluorescence,25,8
+1BUH_A:B,EI,1HCL_A,CDK2 kinase,1DKS_A,Ckshs1,13,7.70E-08,9.7,0.75,1324,SPR,not stated,7.4
+1BVK_DE:F,A,1BVL_BA,Fv Hulys11,3LZT_A,HEW lysozyme,14,1.40E-08,10.5,1.24,1321,stopped-flow,20,7
+1BVN_P:T,EI,1PIG_A,Alpha-amylase,1HOE_A,Tendamistat,15,9.20E-12,15.1,0.87,2222,SPR,25,not stated
+1CBW_ABC:D,NC,4CHA_ABC,Chymotrypsin,9PTI_A,BPTI,16,1.10E-08,10.7,0.74,1457,Spectro-scopy,22,8.2
+1DE4_AB:CF,OX,1A6Z_AB,hemochromatosis protein HFE,1CX8_AB,Transferrin receptor ectodom.,17,6.80E-08,9.8,2.59,2066,SPR,not stated,7.5
+1DFJ_E:I,EI,9RSA_B,Ribonuclease A,2BNH_A,Rnase inhibitor,18,5.90E-14,18,1.02,2582,Inhibition,25,6
+1DQJ_AB:C,A,1DQQ_CD,Fab Hyhel63,3LZT_A,HEW lysozyme,19,2.80E-09,11.7,0.75,1765,SPR,25,7.5
+1E4K_AB:C,OR,2DTQ_AB,FC fragment of human IgG 1,1FNL_A,Human FCGR III,20,1.70E-06,7.9,2.59,1634,SPR,25,7.4
+1E6E_A:B,ES,1E1N_A,Adrenoxin reductase,1CJE_D,Adrenoxin,21,8.60E-07,8.3,1.33,2315,SPR,not stated,7.4
+1E6J_HL:P,A,1E6O_HL,Fab 13B5,1A43_A,HIV-1 capsid protein p24,22,2.90E-08,10.3,1.05,1245,SPR,not stated,7.4
+1E96_A:B,OG,1MH1_A,Rac GTPase,1HH8_A,p67 Phox,23,2.70E-06,7.4,0.71,1179,ITC,18,7
+1EAW_A:B,EI,1EAX_A,Matriptase,9PTI_A,BPTI,24,5.00E-11,14.1,0.54,1866,fluorescence,ambient,8.8
+1EER_A:BC,OR,1BUY_A,Erythropoietin,1ERN_AB,EPO receptor,25,3.70E-12,15.6,2.44,3347,SPR,25,7.4
+1EFN_B:A,OX,1AVV_A,HIV-1-NEF protein,1FYN_A,Fyn Kinase SH3 domain,26,3.80E-08,10.1,0.9,1253,SPR,25,7.4
+1EMV_A:B,EI,1FSJ_B,Colicin E9 nuclease,1IMQ_A,Im9 immunity protein,27,2.40E-14,18.6,1.28,1535,stopped-flow,25,7
+1EWY_A:C,ES,1GJR_A,Ferredoxin reductase,1CZP_A,Ferredoxin,28,3.60E-06,7.4,0.8,1502,spectro-scopy,25,8
+1EZU_C:AB,EI,1TRM_A,D102N Trypsin,1ECZ_AB,Y69F D70P Ecotin,29,8.00E-11,13.8,1.21,2751,spectro-scopy,25,8
+1F34_A:B,EI,4PEP_A,Porcine pepsin,1F32_A,Ascaris inhibitor 3,30,1.00E-10,14.2,0.93,3038,spectro-scopy,37,2
+1F6M_A:C,ES,1CL0_A,Thioredoxin reductase,2TIR_A,Thioredoxin 1,31,2.70E-06,7.6,4.9,1830,Km value,ambient,8
+1FC2_C:D,OX,1BDD_A,Staphylococcus Protein A,1FC1_AB,Human Fc fragment,32,2.30E-08,10.4,1.69,1307,stopped-flow,25,6
+1FFW_A:B,OX,3CHY_A,Chemotaxis protein CheY,1FWP_A,Chemotaxis protein CheA,33,1.40E-06,8.1,1.43,1170,ITC,28,7.4
+1FLE_E:I,EI,9EST_A,Elastase,2REL_A(4),Elafin,34,1.00E-09,12.3,1.02,1771,Inhibition,ambient,7.5
+1FQJ_A:B,OG,1TND_C,Gt-alpha,1FQI_A,RGS9,35,6.70E-08,9.8,0.91,1806,fluorescence,ambient,8
+1FSK_BC:A,AB,1FSK_BC,Fab,1BV1_A,Birch pollen antigen Bet V1,36,2.40E-10,13.1,0.45,1623,SPR,25,7.4
+1GCQ_B:C,OX,1GRI_B,GRB2 C-ter SH3 domain,1GCP_B,Vav N-ter SH3 domain,37,1.70E-05,6.5,0.92,1208,SPR,25,7.4
+1GL1_A:I,EI,4CHA_ABC,Alpha-chymotrypsin,1PMC_A(6),PMP-C (LCMI II),38,2.00E-10,13.2,1.2,1595,Inhibition,25,8
+1GLA_G:F,ER,1BU6_0,Glycerol Kinase,1F3Z_A,Glucose specific IIIGlc,39,1.10E-05,6.8,0.98,1304,spectro-scopy,ambient,7
+1GPW_A:B,OX,1THF_D,HISF protein,1K9V_F,Amidotransferase HISH,40,5.00E-09,11.3,0.65,2097,fluorescence,25,not stated
+1GRN_A:B,OG,1A4R_A,CDC42 GTPase,1RGP_A,CDC42 GAP,41,2.40E-07,9,1.22,2332,fluorescence,not stated,8
+1GXD_A:C,EI,1CK7_A,ProMMP2 type IV collagenase,1BR9_A,Metalloproteinase inhibitor 2,42,5.20E-09,11.7,1.39,2445,SPR,25,7.2
+1H1V_A:G,OX,1IJJ_B,Actin,1P8X_A,Gelsolin precursor C-term,43,2.50E-08,10.2,1.05,2071,fluorescence,20,8
+1H9D_A:B,OX,1EAN_A,Runx1 domain of CBFalpha1,1ILF_A(1),Dimerisation domain of CBF-beta,44,4.50E-08,9.2,1.32,2125,electro-phoretic mobility shift,0,7.5
+1HCF_AB:X,OR,1B98_AM,Neurotrophin-4,1WWB_X,TrkB-d5 growth factor receptor,45,2.60E-10,13.1,0.88,2146,SPR,not stated,7.4
+1HE8_B:A,OG,821P_A,Ras GTPase,1E8Z_A,PIP3 kinase,46,3.20E-06,7.4,0.92,1305,stopped-flow,20,7.5
+1HIA_AB:I,EI,2PKA_XY,Kallikrein,1BX8_A,Hirustatin,47,1.30E-08,10.8,1.4,1737,Inhibition,not stated,not stated
+1I2M_A:B,OG,1QG4_A,Ran GTPase,1A12_A,RCC1,48,2.50E-12,15.8,2.12,2779,stopped-flow,25,7.4
+1I4D_D:AB,OG,1MH1_A,Rac GTPase.GDP,1I49_AB,Arfaptin,49,3.00E-06,7.5,1.41,1657,ITC,22,8.7
+1IB1_AB:E,OX,1QJB_AB,14-3-3 protein,1KUY_A,Serotonin N-acteylase,50,2.00E-08,9.8,2.09,2808,sedimentation equilibrium,4,6.5
+1IBR_A:B,OG,1QG4_A,Ran GTPase.GNP,1F59_A,Importin beta,51,1.00E-09,12.1,2.54,3370,fluorescence,20,7.4
+1IJK_A:BC,ER,1AUQ_A,Von Willebrand Factor dom. A1,1FVU_AB,Botrocetin,52,2.30E-08,10.4,0.68,1648,radioligand binding,ambient,7.4
+1IQD_AB:C,AB,1IQD_AB,Fab,1D7P_M,Factor VIII domain C2,53,<1.4E-11,>15,0.48,1976,SPR,not stated,7.4
+1J2J_A:B,OG,1O3Y_A,Arf1 GTPase.GTP,1OXZ_A,GAT domain of GGA1,54,1.10E-06,8.1,0.63,1209,SPR,25,8
+1JIW_P:I,EI,1AKL_A,Alkaline metallo-proteinase,2RN4_A(1),Proteinase inhibitor,55,4.00E-12,15.5,2.07,2018,Inhibition,25,7
+1JMO_A:HL,ER,1JMJ_A,Heparin cofactor,2CN0_HL,Thrombin,56,1.20E-07,9.5,3.21,3461,Inhibition,ambient,7.4
+1JPS_HL:T,A,1JPT_HL,Fab D3H44,1TFH_B,Tissue factor,57,1.00E-10,13.6,0.51,1852,SPR,ambient,7.2
+1JTG_B:A,EI,3GMU_B,beta-lactamase inhibitor protein,1ZG4_A,beta-lactamase TEM-1,58,4.00E-10,12.8,0.49,2600,SPR,25,7.5
+1JWH_CD:A,ER,3EED_AB,Casein kinase II beta chain,3C13_A,Casein kinase II alpha chain,59,1.30E-08,11.1,1.27,1451,ITC,35,8.5
+1K5D_AB:C,OG,1RRP_AB,Ran GTPase.GNP-RanBD1,1YRG_B,Ran GAP,60,3.00E-10,12.8,1.19,2527,stopped-flow,20,7.5
+1KAC_A:B,OR,1NOB_F,Adenovirus fiber knob protein,1F5W_B,Adenovirus receptor,61,1.50E-08,10.7,0.95,1456,SPR,25,7.4
+1KKL_ABC:H,ES,1JB1_ABC,HPr kinase C-ter domain,2HPR_A,HPr,62,4.50E-08,10,2.2,1641,SPR,25,8
+1KLU_AB:D,OX,1H15_AB,MHC class 2 HLA-DR1,1STE_A,Staphylococcus enterotoxin C3,63,4.60E-06,7.3,0.43,1254,SPR,25,7.5
+1KTZ_A:B,OR,1TGK_A,TGF-beta,1M9Z_A,TGF-beta receptor,64,2.90E-07,8.9,0.39,989,SPR,25,7.4
+1KXP_A:D,OX,1IJJ_B,Actin,1KW2_B,Vitamin D binding protein,65,9.00E-10,12.3,1.12,3341,Inhibition,25,7.4
+1KXQ_H:A,AB,1KXQ_H,Camel VHH,1PPI_A,Pancreatic alpha-amylase,66,3.50E-09,11.5,0.72,2172,SPR,not stated,7.4
+1LFD_B:A,OG,5P21_A,Ras.GNP,1LXD_A,RalGDS Ras-interacting domain,67,1.90E-06,7.8,1.79,1167,stopped-flow,25,7.4
+1M10_A:B,ER,1AUQ_A,Von Willebrand factor dom. A1,1M0Z_B,Glycoprotein IB-alpha,68,5.80E-09,11.2,2.1,2097,SPR,25,7.4
+1MAH_A:F,EI,1J06_B,Acetylcholinesterase,1FSC_A,Fasciculin,69,2.50E-11,14.5,0.61,2145,Inhibition,26,7.5
+1MLC_AB:E,NC,1MLB_AB,Fab44.1,3LZT_A,HEW lysozyme,70,9.10E-08,9.6,0.6,1392,SPR,25,7.4
+1MQ8_A:B,OX,1IAM_A,ICAM-1 domain 1-2,1MQ9_A,Integrin alpha-L I domain,71,3.00E-06,7.5,1.76,1241,SPR,25,not stated
+1NB5_AP:I,EI,8PCH_A,Cathepsin H,1DVC_A,Stefin A,72,6.90E-11,13.9,1.58,1802,Inhibition,25,7
+1NCA_HL:N,AB,1NCA_HL,Fab,7NN9_A,Flu virus neuraminidase N9,73,8.30E-09,11,0.24,1953,fluorescence,ambient,7.2
+1NSN_HL:S,AB,1NSN_HL,Fab N10,1KDC_A,Staphylococcal nuclease,74,<1E-10,>14,0.35,1776,ELISA inhibiton assay,not stated,not stated
+1NVU_Q:S,OG,1LF0_A,Ras GTPase.GTP,2II0_B,Son of sevenless,75,3.60E-06,7.4,1.98,3127,fluorescence anisotropy,not stated,7.5
+1NVU_R:S,OG,1LF0_A,Ras GTPase.GTP,2II0_B,Son of sevenless,75,1.90E-06,7.8,3.09,3452,fluorescence anisotropy,not stated,7.5
+1NW9_B:A,ER,1JXQ_A,Capase-9,2OPY_A, BIR3 domain of XIAP (249-354),76,1.30E-08,9.3,1.97,2112,fluorescence,37,7.2
+1OC0_A:B,ER,1B3K_A,Plasminogen activator inhibitor-1,2JQ8_A(4),Vitronectin Somatomedin B domain,77,1.00E-09,12.3,1,1313,fluorescence,not stated,not stated
+1OPH_A:B,EI,1QLP_A,Alpha-1-antitrypsin,2PTN_A,Bovine trypsin,78,5.00E-09,11.3,1.2,1360,fluorescence,not stated,not stated
+1P2C_AB:C,A,2Q76_AB,FabF10.6.6,3LZT_A,HEW lysozyme,79,1.00E-10,13.6,0.46,1456,SPR,25,not stated
+1PPE_E:I,EI,2PTN_A,Bovine trypsin,1LU0_A,CMTI-1 squash inhibitor,80,3.00E-12,15.6,0.34,1688,spectro-scopy,22,8.3
+1PVH_A:B,OR,1BQU_A,IL6 receptor beta chain D2-D3 domains,1EMR_A,Leukemia inhibitory factor,81,8.00E-08,9.5,0.34,1403,ITC,20,7.5
+1PXV_A:C,EI,1X9Y_A,Staphylococcus aureus cystein protease,1NYC_A,Cystein protease inhibitor,82,3.10E-10,13,2.63,2336,Inhibition,not stated,7.8
+1QA9_A:B,OX,1HNF_A,CD2,1CCZ_A,CD58,83,9.00E-06,7.2,0.73,1353,SPR,37,7.4
+1R0R_E:I,EI,1SCN_E,Subtilisin carlsberg,2GKR_I,OMTKY,84,2.90E-11,14.2,0.45,1409,spectro-scopy,21,8.3
+1R6Q_A:C,ER,1R6C_X,Clp protease subunit ClpA,2W9R_A,Clp protease adaptor protein ClpS,85,3.30E-07,8.8,1.67,2450,SPR,not stated,not stated
+1RLB_ABCD:E,OX,2PAB_ABCD,Transthyretin,1HBP_A,Retinol binding protein,86,8.00E-07,8.2,0.66,1439,fluorescence anisotropy,20,7.4
+1RV6_VW:X,OR,1FZV_AB,PIGF receptor binding domain,1QSZ_A,Flt1 protein domain 2,87,1.70E-10,13.9,1.09,1639,Inhibition,37,7.2
+1S1Q_A:B,OX,2F0R_A,UEV domain,1YJ1_A,Ubiquitin,88,6.40E-04,4.3,0.98,1288,SPR,20,7.2
+1T6B_X:Y,OR,1ACC_A,Anthrax protective antigen,1SHU_X,Anthrax toxin receptor,89,1.70E-10,13.1,0.62,1948,stopped-flow,20,8
+1US7_A:B,ER,2FXS_A,Heat shock protein 82 N-ter domain,2W0G_A,HSP90 co-chaperone CDC37 C-ter domain,90,1.50E-06,8.1,1.06,1106,ITC,30,8
+1UUG_A:B,EI,3EUG_A,Uracyl-DNA glycosylase,2UGI_B,Glycosylase inhibitor,91,<1E-13,>18,0.77,2121,Stopped-flow,25,8
+1VFB_AB:C,A,1VFA_AB,Fv D1.3,8LYZ_A,HEW lysozyme,92,3.70E-09,11.5,1.02,1383,ITC,24,7.1
+1WDW_BD:A,ER,1V8Z_AB,Tryptophan synthase beta chain 1,1GEQ_A,Tryptophan synthase alpha chain,93,2.50E-09,12.7,1.29,3159,ITC,50,7
+1WEJ_HL:F,A,1QBL_HL,Fab E8,1HRC_A,Cytochrome C,94,7.10E-10,12.5,0.31,1177,spectro-scopy,not stated,not stated
+1WQ1_R:G,OG,6Q21_D,Ras GTPase.GDP,1WER_A,Ras GAP,95,1.70E-05,6.6,1.16,2913,fluorescence anisotropy,30,7.5
+1XD3_A:B,OX,1UCH_A,UCH-L3,1YJ1_A,Ubiquitin,96,3.00E-07,8.9,1.24,2281,fluorescence,25,7.5
+1XQS_A:C,OX,1XQR_A,HspBP1,1S3X_A,Hsp70 ATPase domain,97,6.50E-06,7.1,1.77,2350,SPR,ambient,7.4
+1XU1_ABD:T,OR,1U5Y_ABD,TNF domain of APRIL,1XUT_A(11),TNFR 13B TACI CRD2 domain,98,6.40E-09,11.2,1.3,1700,SPR,not stated,7.4
+1YVB_A:I,EI,2GHU_A,Falcipain 2,1CEW_I,Cystatin,99,6.50E-09,11.2,0.51,1743,Inhibition,not stated,5.5
+1Z0K_A:B,OG,2BME_A,Rab4A GTPase.GNP,1YZM_A,RAB4 binding domain of Rabenosyn,100,7.70E-06,7,0.53,1787,SPR,not stated,7.5
+1ZHI_A:B,OX,1M4Z_A,BAH domain of Orc1,1Z1A_A,Sir Orc-interaction domain,101,2.00E-07,9.1,0.68,1322,ITC,23,7.2
+1ZLI_A:B,EI,1KWM_A,Carboxypeptidase B,2JTO_A(6),Tick carboxypeptidase inhibitor,102,1.30E-09,12,2.53,2087,Inhibition,23,7.5
+1ZM4_A:B,ES,1N0V_C,Elongation factor 2,1XK9_A,Diphtheria toxin A catalytic domain,103,1.30E-06,8,2.94,1554,fluorescence,25,7.9
+2A9K_A:B,ES,1U8Z_A,RalA.GDP,2C8B_X,Mono-ADP-ribosyltransferase C3,104,6.00E-08,10.2,0.85,1751,ITC,37,7.5
+2ABZ_B:E,EI,3I1U_A,Carboxypeptidase A1,1ZFI_A(1),Leech carboxypeptidase inhibitor,105,2.80E-09,11.7,0.9,1447,spectro-scopy,not stated,7.5
+2AJF_A:E,OR,1R42_A,angiotensin-converting enzyme 2,2GHV_E,SARS spike protein receptor binding domain,106,1.60E-08,10.6,0.65,1704,SPR,not stated,not stated
+2AQ3_A:B,NC,1BEC_A,TCR Vbeta8.2,1CK1_A,SEC3,107,1.20E-05,6.7,1.82,1105,ITC,not stated,7.2
+2B42_A:B,EI,2DCY_A,Xylanase,1T6E_X,Xylanase inhibitor,108,1.10E-09,12.1,0.72,2520,SPR,22,5
+2B4J_AB:C,OX,1BIZ_AB,Integrase (HIV-1),1Z9E_A(1),PC4 and SFRS1 interacting protein,109,1.10E-08,10.9,0.99,1259,fluorescence,ambient,7.4
+2BTF_A:P,OX,1IJJ_B,Actin,1PNE_A,Profilin,110,2.30E-06,7.7,0.75,2063,Inhibition,ambient,7
+2C0L_A:B,OX,1FCH_A,TRP region of PEX5,1C44_A,Sterol carrier protein 2,111,1.10E-07,9.8,2.62,2013,ITC,35,7.4
+2FJU_B:A,OG,2ZKM_X,Phospholipase beta 2,1MH1_A,Rac1 GTPase.GDP,112,5.30E-06,7.2,1.04,1245,SPR,25,not stated
+2GOX_A:B,OX,1C3D_A,Complement C3d fragment,2GOM_A,Staphylococcus aureus Efb-C,113,1.40E-09,12.1,0.6,1631,SPR,25,7.4
+2HLE_A:B,OR,2BBA_A,Ephrin B4 receptor,1IKO_P,Ephrin B2 ectodomain,114,4.00E-08,10.1,1.4,2116,ITC,25,7.8
+2HQS_A:H,OX,1CRZ_A,TolB,1OAP_A,Pal,115,2.70E-08,10.2,1.14,2333,ITC,20,7.5
+2HRK_A:B,OX,2HRA_A,Glutamyl-t-RNA synthetase,2HQT_A,GU-4 nucleic binding protein,116,9.00E-09,11,2.03,1595,SPR,25,7.4
+2I25_N:L,A,2I24_N,Shark single domain antigen receptor,3LZT_A,Lysozyme,117,1.00E-09,12.3,1.21,1425,SPR,25,7.4
+2I9B_E:A,OR,1YWH_A,Urokinase plasminogen activator surface receptor,2I9A_A,Urokinase-type plasminogen activator,118,3.30E-10,12.9,3.79,2382,SPR,25,7.4
+2J0T_A:D,EI,966C_A,MMP1 Intersitial collagenase,1D2B_A(20),Metalloproteinase inhibitor 1,119,4.00E-10,13.3,1.23,1471,fluorescence,37,7.5
+2JEL_HL:P,AB,2JEL_HL,Fab Jel42,1POH_A,HPr,120,2.80E-09,11.6,0.17,1501,fluorescence,23,7.2
+2MTA_HL:A,ES,2BBK_JM,Methylamine dehydrogenase,2RAC_A,Amicyanin,121,4.50E-06,7.4,0.41,1461,spectro-scopy,30,7.5
+2NYZ_AB:D,OR,1MKF_AB,Viral chemokine binding p. M3,1J9O_A,Chemokine XCL1,122,5.00E-10,12.7,2.09,2160,SPR,25,7.4
+2O3B_A:B,EI,1ZM8_A,NucA nuclease,1J57_A,NuiA nuclease inhibitor,123,3.20E-12,15.7,3.13,1684,Inhibition,25,7
+2OOB_A:B,ES,2OOA_A,E3 ubiquitin-protein ligase CBL-B UBA domain,1YJ1_A,Ubiquitin,124,6.00E-05,5.7,0.85,808,ITC,20,7
+2OOR_AB:C,ER,1L7E_AB,NAD(P) transhydrogenase subunit alpha part 1,1E3T_A,NAD(P) transhydrogenase subunit beta,125,1.60E-08,10.7,1.42,2065,fluorescence,25,7.2
+2OUL_A:B,EI,3BPF_A,Falcipain 2,2NNR_A,Chagasin,99,1.70E-09,12,0.53,1933,Inhibition,not stated,5.5
+2OZA_B:A,OX,3HEC_A,MAP kinase 14,3FYK_X,MAP kinase-activated protein kinase 2,126,2.50E-09,11.7,1.89,6254,SPR,25,8
+2PCB_A:B,NC,1CCP_A,Cyt C peroxidase,1HRC_A,"Cytochrome C horse",127,1.00E-05,6.8,0.45,1029,ITC,25,6
+2PCC_A:B,ES,1CCP_A,Cyt C peroxidase,1YCC_A,"Cytochrome C yeast",128,1.60E-06,7.9,0.39,1141,ITC,25,6
+2PTC_E:I,EI,2PTN_A,Trypsin,9PTI_A,BPTI,129,6.00E-14,18,0.28,1429,Inhibition,25,8
+2SIC_E:I,EI,1SUP_A,Subtilisin,3SSI_A,Streptomyces subtilisin inhibitor,130,7.10E-11,13.8,0.36,1617,fluorescence,25,7
+2SNI_E:I,EI,1UBN_A,Subtilisin,2CI2_I,Chymotrypsin inhibitor 2,131,2.00E-12,16,0.35,1628,Inhibition,25,8.5
+2TGP_Z:I,NC,1TGB_A,Trypsinogen,9PTI_A,BPTI,132,2.40E-06,7.5,0.57,1432,Spectro-scopy,20,8
+2UUY_A:B,EI,2PTN_A,Trypsin,2UUX_A,Tryptase inhibitor from tick,133,5.60E-09,11.3,0.44,1280,Inhibition,25,8
+2VDB_A:B,OX,3CX9_A,Serum albumin,2J5Y_A,Peptostreptococcal albumin-binding protein,134,1.50E-10,13.4,0.47,1807,radioligand assay,ambient,not stated
+2VIR_AB:C,A,1GIG_LH,Fab,2HMG_AB,Flu virus hemagglutinin,135,1.00E-09,12.3,0.8,1263,SPR,25,not stated
+2VIS_AB:C,NC,1GIG_LH,Fab,2VIU_ACE,Flu virus hemagglutinin T131I mutant,135,4.00E-06,7.4,0.8,1296,SPR,25,not stated
+2WPT_A:B,NC,1FSJ_B,Colicin E9 nuclease,2NO8_A,Im2 immunity protein,136,1.50E-08,10.7,1.61,1581,stopped-flow,25,7
+3BP8_AB:C,OX,1Z6R_AB,Mlc transcription regulator,3BP3_A,PTS glucose-specific enzyme EIICB,137,4.10E-09,11.4,0.45,1398,SPR,not stated,8
+3BZD_A:B,OX,1BEC_A,TCR Vbeta8.2,3BVZ_A,SEC3-1A4,138,9.60E-08,9.6,1.08,1312,ITC,not stated,7.2
+3CPH_G:A,OG,1G16_A,Ras-related protein Sec4.GDP,3CPI_G,Rab GDP-dissociation inhibitor,108,3.30E-07,8.8,2.12,1685,ITC,25,7.5
+3SGB_E:I,EI,2QA9_E,Streptogrisin B,2OVO_A,Ovomucoid inhibitor third domain,139,1.80E-11,14.5,0.36,1268,spectro-scopy,22,8.3
+4CPA_A:I,EI,8CPA_A,Carboxypeptidase A,1H20_A(9),Potato carboxypeptidase inhibitor,140,5.00E-09,11.3,1.52,1177,spectro-scopy,25,7.5
+3H2V_A:E,OX,3MYI_A,Vinculin tail domain,1WI6_A(8),Raver1 RRM1 domain,1,2.21e-5,-6.31,0.8,1263,ITC,296.0,8
+3DAW_A:B,OX,1IJJ_A,Alpha actin,2HD7_A(5),Twinfilin-1 C-terminal domain,2,2e-5,-6.41,1.49,2323,SA,,
+4HX3_BD:A,EI,4HWX_AB,Neutral proteinase inhibitor ScNPI,1C7K_A,Zinc endoprotease,3,6e-6,-7.41,0.9,2086,SA,310.0,7.4
+3HI6_XY:B,A,3HI5_HL,AL-57 Fab fragment,1MJN_A,Integrin alpha-L I domain,4,4.7e-6,-7.27,1.65,1871,SPR,,7.4
+2X9A_D:C,OR,1S62_A(8),TolA C-terminal domain,2X9B_A,G3P TolA binding domain,5,4.4e-6,-7.31,1.33,1571,SA,298.0,7
+3R9A_AC:B,OR,1H0C_AB,Alanine-glyoxylate aminotransferase,2C0M_A,PEX5P TPR repeat domain,6,3.5e-6,-7.44,1.91,1926,ITC,298.0,7.5
+1M27_AB:C,OX,1D4T_AB,SAP-SLAM Complex,3UA6_A,Fyn kinase SH3 domain,7,3.45e-6,-7.45,1.22,799,ITC,298.0,8
+3A4S_A:D,EI,1A3S_A,SUMO-conjugating enzyme UBC9,3A4R_A,NFATC2-interacting protein SLD2 ubiquitin-like domain,8,2.81e-6,-7.57,0.72,1116,ITC,298.0,7.5
+3F1P_A:B,OX,1P97_A(9),,1X0O_A(5),,9,1.4e-6,-7.85,2.52,1919,ITC,293.0,7.5
+4M76_A:B,OR,1C3D_A,C3D,1M1U_A,,10,4.5e-7,-8.66,0.43,1046,ITC,298.0,7.5
+3LVK_AC:B,E,3LVM_AB,Cysteine desulfurase IscS,1DCJ_A(12),A-domain CD46 SCR1 and SCR2 do-,11,3.04e-7,-8.89,0.81,1609,SPR,298.0,7.4
+3L89_ABC:M,OR,3L88_ABC,Ad21 fiber knob,1CKL_A,,12,2.84e-7,-8.93,2.51,2167,SPR,298.0,7.4
+4IZ7_A:B,EI,1ERK_A,Non-phosphorylated ERK,2LS7_A(1),mains PEA-15 Death Effector Domain,13,1.33e-7,-9.44,1.56,1202,SA,300.0,7.5
+3K75_D:B,ER,1BPB_A,DNA polymerase beta,3K77_A,Reduced XRCC1 Nterminal domain,14,1.1e-7,-9.49,0.64,1195,SA,,7.5
+3PC8_A:C,ER,3PC6_A,DNA repair protein XRCC1,3PC7_A,DNA ligase III-alpha BRCT domain,15,1.02e-7,-9.54,0.5,1240,SPR,,7.5
+3BIW_A:E,OX,3BIX_A,Neuroligin-1,2R1D_A,Neuroligin-1-beta,16,9.7e-8,-9.41,0.39,1191,ITC,293.0,7.2
+3SZK_DE:F,OX,3ODQ_AB,MetHaemoglobin,2H3K_A,ISDH-N1,17,9.01e-8,-9.45,2.1,1263,ITC,293.0,7.5
+3AAA_AB:C,OX,3AA7_AB,Actin capping protein,1MYO_A(30),Myotrophin,18,2.1e-8,-10.30,1.78,1686,SPR,293.0,7
+3RVW_CD:A,A,3RVT_CD,4C1 Fab,3F5V_A,DER P 1 allergen,19,1.9e-8,-10.53,0.5,1383,ITC,298.0,7.5
+3BX7_A:C,OX,3BX8_A,Lipocalin 2,3OSK_A,CTLA-4 extracellular domain,20,9e-9,-10.98,1.63,2349,SPR,298.0,7.4
+3MXW_LH:A,A,3MXV_LH,,3M1N_A,,21,7e-9,-11.31,0.48,1696,ITC,303.0,7.2
+4GXU_MN:ABEFCD,A,4GXV_HL,1F1 antibody,1RUZ_HIJKLM_1918_H1_Hemagglutinin,fragment terminal domain Canakinumab,22,6.2e-9,-11.20,0.78,1830,BLI,,
+4G6J_HL:A,A,4G5Z_HL,antibody fragment,4I1B_A,Interleukin-1 beta,23,4.1e-9,-11.44,0.61,1893,TP,298.0,7.4
+3V6Z_AB:F,A,3V6F_AB,Fab E6,3KXS_F,Capsid protein assembly domain,24,3.3e-9,-11.57,1.83,1922,SPR,,7.4
+3S9D_B:A,OR,1N6U_A(15)_IFNAR2,,1ITF_A(9),IFNa2,25,3e-9,-11.63,1.69,1841,SA,,7.5
+3EOA_LH:I,A,3EO9_LH,Efalizumab Fab fragment,3F74_A,Integrin alpha-L I domain,26,2.2e-9,-11.81,0.39,1272,SPR,298.0,7.4
+2GAF_D:A,ER,3OWG_A,Poly(A) polymerase VP55,1VPT_A,Vaccinia protein VP39,27,1.2e-9,-12.17,0.69,3368,SPR,,7
+4FQI_HL:ABEFCD,A,4FQH_HL,CR9114 Fab,2FK0_ABCDEF,H5N1 influenza virus hemagglutinin,28,9e-10,-12.55,1.08,1459,BLI,303.0,7.4
+2VXT_HL:I,A,2VXU_HL,Murine reference antibody 125-2H Fab,1J0S_A(6),Interleukin-18,29,5.33e-10,-12.65,1.33,2163,SPR,,
+4G6M_HL:A,A,4G6K_HL,Gevokizumab antibody fragment,4I1B_A,Interleukin-1 beta,23,2.9e-10,-13.01,0.49,1673,TP,298.0,7.4
+2W9E_HL:A,A,2W9D_HL,ICSM 18 Fab fragment,1QM1_A,Prion protein fragment,30,1.3e-10,-13.49,1.13,1677,ELISA,,9.6
+3L5W_LH:I,A,3L7E_LH,C836 Fab,1IK0_A(11),Interleukin-13,31,5.4e-11,-14.01,0.48,1138,SPR,298.0,7.4
+4DN4_LH:M,A,4DN3_LH,CNTO888 Fab,1DOL_A,MCP-1,32,3.8e-11,-14.22,0.81,1317,SPR,298.0,7.1
+1JTD_B:A,EI,3QI0_A,BLIP-II,1BTL_A,TEM-1 beta-lactamase,33,2.72e-11,-14.41,0.44,2180,SA,298.0,7
+3G6D_LH:A,A,3G6A_LH,CNTO607 Fab,1IK0_A(10),Interleukin-13,34,1.84e-11,-14.65,1.86,1793,SPR,298.0,7.3
