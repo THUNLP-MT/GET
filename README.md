@@ -1,5 +1,7 @@
 # GET: Generalist Equivariant Transformer Towards 3D Molecular Interaction Learning
 
+![cover](./assets/cover.png)
+
 This repo contains the codes for our paper [Generalist Equivariant Transformer Towards 3D Molecular Interaction Learning (ICML 2024)](https://arxiv.org/abs/2306.01474).
 
 ## Quick Links
