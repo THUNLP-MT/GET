@@ -206,7 +206,7 @@ def knn_edges(block_ids, batch_ids, X, k_neighbors):
     :param k_neighbors: int
     '''
     all_edges = fully_connect_edges(batch_ids)
-    dist = _block_edge_dist(X, block_ids, all_edges)
+    dist = _block_edge_dist(X, block_ids, all_edges.T)
     row, col = all_edges
 
     # get topk for each node
