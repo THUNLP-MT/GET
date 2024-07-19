@@ -213,3 +213,20 @@ def knn_edges(block_ids, batch_ids, X, k_neighbors):
     _, indices = scatter_topk(dist, row, k=k_neighbors, largest=False)
     edges = torch.stack([all_edges[0][indices], all_edges[1][indices]], dim=0) # [2, k*N]
     return edges  # [2, E]
+
+
+def stable_norm(input, *args, **kwargs):
+    '''
+        For L2: norm = sqrt(\sum x^2) = (\sum x^2)^{1/2}
+        The gradient will have zero in divider if \sum x^2 = 0
+        It is not ok to direct add eps to all x, since x might
+        be a small but negative value.
+        This function deals with this problem
+    '''
+    input = input.clone()
+    with torch.no_grad():
+        sign = torch.sign(input)
+        input = torch.abs(input)
+        input.clamp_(min=1e-10)
+        input = sign * input
+    return torch.norm(input, *args, **kwargs)

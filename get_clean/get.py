@@ -6,7 +6,7 @@ import torch
 import torch.nn as nn
 from torch_scatter import scatter_softmax, scatter_mean, scatter_sum, scatter_std
 
-from .tools import _unit_edges_from_block_edges
+from .tools import _unit_edges_from_block_edges, stable_norm
 from .radial_basis import RadialBasis
 
 
@@ -185,7 +185,7 @@ class GETLayer(nn.Module):
 
         dZ = Z[unit_row] - Z[unit_col]  # [E_u, n_channel, 3]
 
-        D = torch.norm(dZ, dim=-1)  # [Eu, n_channel]
+        D = stable_norm(dZ, dim=-1)  # [Eu, n_channel]
         if self.n_rbf > 1:
             n_channel = D.shape[-1]
             D = self.rbf(D.view(-1)).view(D.shape[0], n_channel, self.n_head, -1)  # [Eu, n_channel, n_head, n_rbf / n_head]
@@ -336,7 +336,7 @@ class EquivariantFFN(nn.Module):
         Z_c = Z_c[block_id]
         Z_o = Z - Z_c  # [N, n_channel, 3], no translation
 
-        D = torch.norm(Z_o, dim=-1)  # [N, n_channel]
+        D = stable_norm(Z_o, dim=-1)  # [N, n_channel]
         radial = self.rbf(D.view(-1)).view(D.shape[0], -1) # [N, n_channel * n_rbf]
 
         return radial, (Z_c, Z_o)
