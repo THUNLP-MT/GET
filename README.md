@@ -309,10 +309,18 @@ Please feel free to ask about any questions about the algorithms, codes, as well
 ## Reference
 
 ```bibtex
-@article{kong2023generalist,
-  title={Generalist equivariant transformer towards 3d molecular interaction learning},
-  author={Kong, Xiangzhe and Huang, Wenbing and Liu, Yang},
-  journal={arXiv preprint arXiv:2306.01474},
-  year={2023}
+@InProceedings{pmlr-v235-kong24b,
+  title = 	 {Generalist Equivariant Transformer Towards 3{D} Molecular Interaction Learning},
+  author =       {Kong, Xiangzhe and Huang, Wenbing and Liu, Yang},
+  booktitle = 	 {Proceedings of the 41st International Conference on Machine Learning},
+  pages = 	 {25149--25175},
+  year = 	 {2024},
+  editor = 	 {Salakhutdinov, Ruslan and Kolter, Zico and Heller, Katherine and Weller, Adrian and Oliver, Nuria and Scarlett, Jonathan and Berkenkamp, Felix},
+  volume = 	 {235},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {21--27 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://raw.githubusercontent.com/mlresearch/v235/main/assets/kong24b/kong24b.pdf},
+  url = 	 {https://proceedings.mlr.press/v235/kong24b.html},
 }
 ```
