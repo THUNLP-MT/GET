@@ -7,7 +7,8 @@ import math
 import pickle
 import argparse
 from argparse import Namespace
-
+import time
+import json
 import pandas as pd
 
 PROJ_DIR = os.path.join(
@@ -223,6 +224,24 @@ def residue_to_pd_rows(chain: str, residue: Residue):
     return rows
 
 
+LOCAL_FASTA = json.load(open(os.path.join(PROJ_DIR, 'datasets', 'PPA', 'fasta_dict.json'), 'r'))
+
+def _fetch_from_local(pdb):
+    return LOCAL_FASTA.get(pdb, None)
+
+def _fetch_from_remote(pdb):
+    return url_get(f'https://www.pdbbind-plus.org.cn:11033/api/browser/fasta/{pdb}.txt')
+
+def _fetch_fasta(pdb):
+    # try local
+    fasta = _fetch_from_local(pdb)
+    if fasta is None: # try from remote
+        fasta = _fetch_from_remote(pdb)
+        if fasta is None: return None
+        fasta = fasta.text.strip().split('\n')
+    return fasta
+
+
 def process_line(line, pdb_dir, interface_dist_th):
 
     if line.startswith('#'):  # annotation
@@ -265,12 +284,12 @@ def process_line(line, pdb_dir, interface_dist_th):
         'neglog_aff': -math.log(aff, 10)  # pK = -log_10 (Kd)
     }
 
-    fasta = url_get(f'http://www.pdbbind.org.cn/FASTA/{pdb}.txt')
+    fasta = _fetch_fasta(pdb)
     if fasta is None:
         print_log(f'Failed to fetch fasta for {pdb}!', level='ERROR')
         return None
-    fasta = fasta.text.strip().split('\n')
     proteins = parse_fasta(fasta)
+
     if len(proteins) != 2:  # irregular fasta, cannot distinguish which chains composes one protein
         print_log(f'{pdb} has {len(proteins)} chain sets!', level='ERROR')
         return None
